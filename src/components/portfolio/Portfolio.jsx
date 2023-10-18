@@ -17,19 +17,19 @@ const items = [
   },
   {
     id: 2,
-    title: "Next.js Blog",
-    img: "https://th.bing.com/th/id/OIP.kPGfsTKTFrlvuM__dExcewHaFj?pid=ImgDet&rs=1",
+    title: "Airbnb clone",
+    img: "/clone.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, expedita esse sed velit quaerat fuga doloremque dicta animi rerum cumque tenetur possimus, laboriosam tempore! Quo dicta amet neque ipsa sequi.",
   },
   {
     id: 3,
-    title: "Angular dashboard",
+    title: "In progress",
     img: "https://images.pexels.com/photos/50614/pexels-photo-50614.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, expedita esse sed velit quaerat fuga doloremque dicta animi rerum cumque tenetur possimus, laboriosam tempore! Quo dicta amet neque ipsa sequi.",
   },
   {
     id: 4,
-    title: "JakartaEE Bussiness",
+    title: "In progress",
     img: "https://images.pexels.com/photos/50614/pexels-photo-50614.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, expedita esse sed velit quaerat fuga doloremque dicta animi rerum cumque tenetur possimus, laboriosam tempore! Quo dicta amet neque ipsa sequi.",
   },
