@@ -2,7 +2,7 @@ import Sidebar from "../sidebar/Sidebar";
 import "./navbar.scss";
 import { motion } from "framer-motion";
 
-function Navbar() {
+const Navbar = () => {
   return (
     <div className="navbar">
       {/* Sidebar */}
@@ -55,6 +55,6 @@ function Navbar() {
       </div>
     </div>
   );
-}
+};
 
 export default Navbar;
